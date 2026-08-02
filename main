@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dilmate AI - Privacy Policy</title>
+
+<style>
+body{
+    margin:0;
+    background:#12121c;
+    color:#f5f5f5;
+    font-family:Arial,Helvetica,sans-serif;
+    line-height:1.8;
+}
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:40px 20px;
+}
+.card{
+    background:#1a1a28;
+    border-radius:16px;
+    padding:35px;
+    box-shadow:0 0 20px rgba(0,0,0,.25);
+}
+h1{
+    color:#ff4d9d;
+}
+h2{
+    color:#ff79b6;
+    margin-top:30px;
+}
+a{
+    color:#7bc7ff;
+}
+.footer{
+    text-align:center;
+    margin:30px 0;
+    color:#999;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+
+<h1>Dilmate AI Privacy Policy</h1>
+
+<p><strong>Last Updated:</strong> August 2026</p>
+
+<p>
+Dilmate AI respects your privacy. This Privacy Policy explains what information the app uses and how it is handled.
+</p>
+
+<h2>Information We Collect</h2>
+
+<p>
+Dilmate AI does not require user registration and does not collect personally identifiable information such as your name, email address, phone number, or location.
+</p>
+
+<h2>Local Storage</h2>
+
+<p>
+Your selected profile, settings, and chat history are stored locally on your device using Android SharedPreferences and Room Database.
+</p>
+
+<p>
+This information remains on your device and is not uploaded to our servers.
+</p>
+
+<h2>AI Conversations</h2>
+
+<p>
+All companion conversations are generated locally using pre-written conversation data included within the application. Messages are not sent to any external AI service or cloud server.
+</p>
+
+<h2>Video Content</h2>
+
+<p>
+The app contains pre-recorded AI companion videos for entertainment purposes. These are not live video calls with real people.
+</p>
+
+<h2>Analytics & Crash Reporting</h2>
+
+<p>
+We use Google Firebase Analytics and Firebase Crashlytics to understand app performance and fix technical issues. These services may collect anonymous diagnostic and usage information.
+</p>
+
+<h2>Advertisements</h2>
+
+<p>
+Dilmate AI uses Google AdMob to display advertisements. AdMob may collect device identifiers and advertising information according to Google's own privacy practices.
+</p>
+
+<h2>Security</h2>
+
+<p>
+Any online resources used by the application, such as media files, are accessed securely using HTTPS connections.
+</p>
+
+<h2>Children's Privacy</h2>
+
+<p>
+Dilmate AI is intended for users who meet the minimum age required under applicable laws and Google Play policies.
+</p>
+
+<h2>Changes to this Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+If you have any questions regarding this Privacy Policy, please contact us at:
+</p>
+
+<p>
+<b>Email:</b><br>
+<a href="mailto:neerajkajallabs@gmail.com">neerajkajallabs@gmail.com</a>
+</p>
+
+</div>
+
+<div class="footer">
+© 2026 Dilmate AI. All Rights Reserved.
+</div>
+
+</div>
+
+</body>
+</html>
